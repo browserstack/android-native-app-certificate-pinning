@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textstr" formatted="true"></string>
+    <string name="editTextStr" formatted="true"></string>
+    <string name="buttonGoStr" formatted="true">Go</string>
+    <string name="editTextHintStr" formatted="true">Your self-signed local server URL</string>
+</resources>
